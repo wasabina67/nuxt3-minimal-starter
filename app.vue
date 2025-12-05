@@ -1,10 +1,10 @@
 <template>
   <section>
     <div class="hidden md:block">
-      aaaa
+      div-1
     </div>
     <div class="block md:hidden">
-      bbbb
+      div-2
     </div>
   </section>
 </template>
